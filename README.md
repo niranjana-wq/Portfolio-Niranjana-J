@@ -112,10 +112,4 @@ Replace **`public/resume.pdf`** with your latest resume.
 
 ---
 
-## 📄 License
-
-MIT — free to use and adapt with attribution.
-
----
-
 > Built by **Niranjana J** · [LinkedIn](http://www.linkedin.com/in/niranjanaj/) · [GitHub](https://github.com/niranjana-wq/)
