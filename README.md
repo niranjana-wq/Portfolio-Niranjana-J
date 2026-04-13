@@ -6,7 +6,7 @@ A modern, production-grade personal portfolio built with **Next.js 14**, **Tailw
 
 ## 🚀 Live Preview
 
-> Run locally at `http://localhost:3000`
+> Demo : portfolio-niranjana-j.vercel.app
 
 ---
 
