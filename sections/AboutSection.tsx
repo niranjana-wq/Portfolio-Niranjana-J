@@ -68,7 +68,7 @@ export default function AboutSection() {
                 <div className="w-36 h-36 rounded-full mx-auto shadow-xl mb-5 overflow-hidden border-4 border-white ring-2 ring-violet-200">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
-                    src="/profile.jpeg"
+                    src="/profile.png"
                     alt="Niranjana J"
                     className="w-full h-full object-cover object-top"
                   />
